@@ -54,6 +54,9 @@ It demonstrates how data visualization can convert raw business data into useful
 **Mehul Pandita**
 
 GitHub: [mehul pandita004-cloud](https://github.com/mehulpandita004-cloud)
+## 📸 Dashboard Preview
+
+![BlinkIT Dashboard](Screenshot%202026-10-31%20051344.png)
 
 ---
 
